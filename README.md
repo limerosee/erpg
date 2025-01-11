@@ -5,6 +5,8 @@ This mod pack positions itself as an RPG and includes mods of all genres, such a
 # Modrinth link
 https://modrinth.com/modpack/erpg
 # IMPORTANT
+- this modpack needs at minimum 8gb of allocated ram
+  
 _**This modpack requires FTB mods to enable teams and quests. You must install them manually.
 needed verisons:**_
 
