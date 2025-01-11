@@ -38,16 +38,29 @@ https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/files/5816793](ht
 
 # Shaders configs
 
-To get our complementary reimagined, builders qol and chocapic13v9 low configs just download that shaders in shaderpacks folder:
+**To get our complementary reimagined, builders qol and chocapic13v9 low configs just download that shaders in shaderpacks folder:**
 
-download this shaders:
+**download this shaders:**
 
-```https://modrinth.com/shader/builders-qol-shaders/version/2.10.0](https://modrinth.com/shader/builders-qol-shaders/version/2.10.0```
+**builders qol:**
 
-```https://www.curseforge.com/minecraft/shaders/chocapic13-shaders/files/3059792](https://www.curseforge.com/minecraft/shaders/chocapic13-shaders/files/3059792```
+https://modrinth.com/shader/builders-qol-shaders/version/2.10.0
+
+**chocapic13-v9:**
+
+https://www.curseforge.com/minecraft/shaders/chocapic13-shaders/files/3059792
 
 ↑ unzip it and put in shaderpacks only low version
 
-```[https://modrinth.com/shader/complementary-reimagined/version/r5.2.2](https://modrinth.com/shader/complementary-reimagined/version/r5.2.2)```
+**complementary reimagined:**
+
+https://modrinth.com/shader/complementary-reimagined/version/r5.2.2
+
 # Web site of this modpack
-web site: [http://erpg.fun/](http://erpg.fun/)
+http://erpg.fun/
+
+# Issue tracker
+https://github.com/limerosee/erpg/issues
+
+# Support me
+https://www.donationalerts.com/r/limeerosee
