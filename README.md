@@ -1,5 +1,5 @@
 # ERPG - ethic rpg modpack
-ERPG - is Minecraft fabric 1.20.1 modpack. This modpack positions itself as an RPG and includes mods of all genres, such as rpg, magic, tech, it is also well optimized and has quest lines for many of the mods included in it. This modpack positions itself as an RPG and includes mods of all genres, such as rpg, magic, tech, it is also well optimized and has quest lines for many of the mods included in it.
+ERPG - is Minecraft fabric 1.20.1 modpack. This modpack positions itself as an fantasy RPG and includes mods of all genres, such as rpg, magic, tech, it is also well optimized and has quest lines for many of the mods included in it. This modpack positions itself as an RPG and includes mods of all genres, such as rpg, magic, tech, it is also well optimized and has quest lines for many of the mods included in it.
 
 # Modrinth link
 https://modrinth.com/modpack/erpg
