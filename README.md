@@ -36,4 +36,18 @@ https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer/files/5595224]
 https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/files/5816793](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/files/5816793
 ```
 
+# Shaders configs
+
+To get our complementary reimagined, builders qol and chocapic13v9 low configs just download that shaders in shaderpacks folder:
+
+download this shaders:
+
+```https://modrinth.com/shader/builders-qol-shaders/version/2.10.0](https://modrinth.com/shader/builders-qol-shaders/version/2.10.0```
+
+```https://www.curseforge.com/minecraft/shaders/chocapic13-shaders/files/3059792](https://www.curseforge.com/minecraft/shaders/chocapic13-shaders/files/3059792```
+
+↑ unzip it and put in shaderpacks only low version
+
+```[https://modrinth.com/shader/complementary-reimagined/version/r5.2.2](https://modrinth.com/shader/complementary-reimagined/version/r5.2.2)```
+# Web site of this modpack
 web site: [http://erpg.fun/](http://erpg.fun/)
