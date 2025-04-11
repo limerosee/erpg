@@ -28,7 +28,7 @@ https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/files/5816793
 https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer/files/5595224
 
 
-# Web site of this modpack
+# Web site of this modpack (outdated info)
 http://erpg.fun/
 
 # Issue tracker
