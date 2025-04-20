@@ -38,7 +38,7 @@ https://github.com/limerosee/erpg/issues
 https://www.donationalerts.com/r/limeerosee
 
 
-# needed to install only in 1.5 and in older versions - Shaders configs 
+# needed to install only in 1.15 and in older versions - Shaders configs 
 
 **To get our complementary reimagined, builders qol and chocapic13v9 low configs just download that shaders in shaderpacks folder:**
 
